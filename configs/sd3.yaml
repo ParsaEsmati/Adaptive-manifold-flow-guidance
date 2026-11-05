@@ -1,0 +1,11 @@
+# Stable Diffusion 3 Model Configuration
+
+# Default dtype (will auto-fallback to float32 for CPU)
+dtype: float16
+
+# Default dimensions
+height: 1024
+width: 1024
+
+# Output settings
+output_format: png

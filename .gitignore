@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# model weights
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+
+# generated images
+outputs/
+*.png
+*.jpg
